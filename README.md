@@ -122,7 +122,7 @@ Percolate up:
 
 # Running time
 
-![ON](images/deleteminrun.jpg)
+![ON](images/deleteminRun.jpg)
 
 Running time of deleteMin is O(logN)
 
