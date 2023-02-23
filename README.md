@@ -132,17 +132,12 @@ But… On average, the percolation terminates early; it has been shown that 2.60
 
 ## Samples
 
+Implementation
+https://www.geeksforgeeks.org/priority-queue-using-binary-heap/
 
-See Java code for (binary) Heap in:
+Visual graphs
 
-http://users.cis.fiu.edu/~weiss/cop3530_sum08/July16.java
-
-Author: Mark Weiss 
-
-
-Complementary material
-
-http://algs4.cs.princeton.edu/24pq
+https://www.cs.usfca.edu/~galles/visualization/Heap.html
 
 
 ## Class Problem
